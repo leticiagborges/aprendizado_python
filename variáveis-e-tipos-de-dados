@@ -1,0 +1,70 @@
+ 
+
+
+'''
+Tipos int e float
+Int é um número inteiro. O tipo int representa qualquer número positivo ou negativo. 
+ '''
+print("Exemplo do tipo int:")
+print(3)
+print(-10)
+print('_________')
+
+'''
+Float
+É um número com ponto flutuante. O tipo float representa qualquer número positivo ou negativo com ponto flutuante.
+ '''
+print("Exemplo do tipo float:")
+print(1.1, 10.11)
+print(0.0, -1.5)
+print('_________')
+
+
+'''
+Strings
+Uma string é uma sequência de caracteres, ou seja, é uma representação de texto. 
+Ela pode conter letras, números, espaços em branco, símbolos e outros caracteres especiais.
+'''
+print("Exemplo de String:" )
+linha1= "1° exemplo de string,"
+linha2= '2° exemplo de string'
+print(linha1, linha2)
+print('_________')
+
+
+''' 
+A função type() 
+É usada para retornar o tipo de um objeto.
+'''
+print("Exemplo da função type():" )
+print(type('Otávio'))
+print(type(0))
+print(type(1.1), type(-1.1), type(0.0))
+print('_________')
+
+
+
+'''
+Variáveis 
+São usadas para salvar algo na memória do computador.
+O sinal de = é o operador de atribuição.
+Ele é usado para atribuir um valor a um nome (variável).
+'''
+print("Exemplo da variável:" )
+nome= "esta é uma variável"
+print(nome)
+print('_________')
+
+
+'''
+Boolean 
+É um valor lógico que pode ser verdadeiro (True) ou falso (False). 
+Esse tipo de dado é usado principalmente em expressões condicionais e operações lógicas.
+Existem vários operadores para "questionar".
+Dentre eles o ==, que é um operador lógico que questiona se um valor é igual a outro
+'''
+print("Exemplo de boolean:" )
+x=12
+print("x==12:", x==12)
+print("x==19:", x==19)
+print("10==10:", 10==10)
