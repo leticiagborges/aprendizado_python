@@ -5,7 +5,7 @@ Este repositório é destinado ao registro do meu aprendizado da linguagem Pytho
 
 ## Sumário
 
-- [Comentários no código] 
+- [Comentários no código] (https://github.com/leticiagborges/aprendizado_python/blob/main/coment%C3%A1rios-no-c%C3%B3digo)
 - [Variáveis e tipos de dados] 
 - [Operadores] 
 - [Formatação de Strins] 
