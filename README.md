@@ -2,12 +2,18 @@
 
 Este repositório é destinado ao registro do meu aprendizado da linguagem Python. Neste espaço vou documentar conceitos, exemplos de código, projetos e recursos úteis que estou explorando durante o processo de aprendizagem.
 
-## Conteúdo
 
-- [Sobre Python](#sobre-python)
-- [Recursos de Aprendizagem](#recursos-de-aprendizagem)
-- [Projetos](#projetos)
-- [Licença](#licença)
+## Sumário
+
+- [Comentários no código] 
+- [Variáveis e tipos de dados] 
+- [Operadores] 
+- [Formatação de Strins] 
+- [Estruturas Condicionais] 
+- [Estruturas de repetição] 
+- [Funções] 
+
+
 
 ## Sobre Python
 
